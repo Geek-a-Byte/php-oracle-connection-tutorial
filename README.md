@@ -1,6 +1,6 @@
 # php-oracle-connection-tutorial
 
-## ``step 1``
+## ``step 1: Setup Xampp``
 
 - [ ] install xampp for PHP 8.0.28 / PHP 8.0.28 from [here](https://www.apachefriends.org/download.html) (download 64 bit).
 - [ ] start the apache server. if no error shows, then go to this url: "http://localhost:80/dashboard/"
