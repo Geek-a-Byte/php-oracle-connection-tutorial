@@ -25,7 +25,7 @@
 
 ## ``step 3: Download Download php_oci8.dll and php_oci8_11g.dll``
 
-- [ ] Download php_oci8.dll and php_oci8_11g.dll from [here](https://drive.google.com/drive/folders/1geoo4LaZdPwvs0JExdHYEaUJT65QRO6k).
+- [ ] Download php_oci8.dll and php_oci8_11g.dll from [here](https://www.dll-files.com/php_oci8.dll.html) and [here](https://www.dll-files.com/php_oci8_11g.dll.html).
 - [ ] Copy and paste the php_oci8.dll and php_oci8_11g.dll in C:\xampp\apache\bin and C:\xampp\php\ext
 - [ ] now go to xampp, press config right after the apache option and select php.ini file
 - [ ] add these two lines: extension=php_oci8.dll  extension=php_oci8_11g.dll
