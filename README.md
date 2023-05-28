@@ -30,3 +30,5 @@
 - [ ] now go to xampp, press config right after the apache option and select php.ini file
 - [ ] add these two lines: extension=php_oci8.dll  extension=php_oci8_11g.dll
 ![Screenshot 2023-05-28 224500](https://github.com/Geek-a-Byte/php-oracle-connection-tutorial/assets/59027621/4d692fdc-08b5-42e9-ac6c-96ddb2229b96)
+- [ ] Make sure in the php.ini file the extension_dir =”C:\xampp\php\ext”.
+
