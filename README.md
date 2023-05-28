@@ -23,4 +23,10 @@
 - [ ] add this two path under system variable Path:
  ![image](https://github.com/Geek-a-Byte/php-oracle-connection-tutorial/assets/59027621/4d6c414a-7d20-4b83-92a0-41150160ec87)
 
+## ``step 3: Download Download php_oci8.dll and php_oci8_11g.dll``
 
+- [ ] Download php_oci8.dll and php_oci8_11g.dll from [here](https://drive.google.com/drive/folders/1geoo4LaZdPwvs0JExdHYEaUJT65QRO6k).
+- [ ] Copy and paste the php_oci8.dll and php_oci8_11g.dll in C:\xampp\apache\bin and C:\xampp\php\ext
+- [ ] now go to xampp, press config right after the apache option and select php.ini file
+- [ ] add these two lines: extension=php_oci8.dll  extension=php_oci8_11g.dll
+![Screenshot 2023-05-28 224500](https://github.com/Geek-a-Byte/php-oracle-connection-tutorial/assets/59027621/4d692fdc-08b5-42e9-ac6c-96ddb2229b96)
