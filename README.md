@@ -23,7 +23,7 @@
 - [ ] add this two path under system variable Path:
  ![image](https://github.com/Geek-a-Byte/php-oracle-connection-tutorial/assets/59027621/4d6c414a-7d20-4b83-92a0-41150160ec87)
 
-## ``step 3: Download Download php_oci8.dll and php_oci8_11g.dll``
+## ``step 3: Download php_oci8.dll and php_oci8_11g.dll``
 
 - [ ] Download php_oci8.dll and php_oci8_11g.dll from [here](https://www.dll-files.com/php_oci8.dll.html) and [here](https://www.dll-files.com/php_oci8_11g.dll.html).
 - [ ] Copy and paste the php_oci8.dll and php_oci8_11g.dll in C:\xampp\apache\bin and C:\xampp\php\ext
