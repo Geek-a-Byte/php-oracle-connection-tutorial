@@ -1,6 +1,6 @@
 # php-oracle-connection-tutorial
 
-## this tutorial is only applicable for oracle 11g
+## this tutorial is only applicable for oracle 19c
 
 ## ``step 1: Setup Xampp``
 
