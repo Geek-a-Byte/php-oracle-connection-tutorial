@@ -48,6 +48,8 @@ follow these two mainly:
 
 ## ``step 4: create new user for oracle db``
 
+follow this mainly: https://qurosity.com/create-new-user-connection-in-sql-developer/
+
 - [ ] open sql developer
 - [ ] first alter session
 ```sql
