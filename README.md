@@ -4,8 +4,8 @@
 ## ``step 0: download oracle 19c and sql developer``
 - assuming you have Windows x64 (64-bit).
 - [ ] https://www.oracle.com/database/technologies/oracle19c-windows-downloads.html
-- [ ] https://www.youtube.com/watch?v=GUpvXMHqe2U&ab_channel=GeekyScript
 - [ ] https://www.oracle.com/database/sqldeveloper/technologies/download/
+- [ ] https://www.youtube.com/watch?v=GUpvXMHqe2U&ab_channel=GeekyScript
 
 ## ``step 1: Setup Xampp``
 
