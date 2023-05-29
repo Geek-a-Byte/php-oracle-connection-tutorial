@@ -1,6 +1,8 @@
 # php-oracle-connection-tutorial
 ## this tutorial is only applicable for oracle 19c
-follow this mainly: https://www.youtube.com/watch?v=tXoszm_v5NA&t=1s&ab_channel=techiezero
+follow these two mainly: 
+- https://www.youtube.com/watch?v=tXoszm_v5NA&t=1s&ab_channel=techiezero
+- https://blogs.oracle.com/opal/post/installing-xampp-on-windows-for-php-and-oracle-database?fbclid=IwAR3ZO8d-d-gPVKaGoBPyOm6V4jzawe357jpyJOajEGg7w6pdXpCQXQgpKYk
 
 ## ``step 0: download oracle 19c and sql developer``
 - assuming you have Windows x64 (64-bit).
