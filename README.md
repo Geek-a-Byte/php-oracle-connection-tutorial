@@ -30,10 +30,11 @@
 
 ## ``step 3: Download php_oci8.dll and php_oci8_11g.dll``
 
-- [ ] Download php_oci8.dll and php_oci8_11g.dll from [here](https://www.dll-files.com/php_oci8.dll.html) and [here](https://www.dll-files.com/php_oci8_11g.dll.html).
-- [ ] Copy and paste the php_oci8.dll and php_oci8_11g.dll in C:\xampp\apache\bin and C:\xampp\php\ext
+- [ ] Download dll files (the thread safe one for x86) for oci from [here](https://pecl.php.net/package/oci8/3.2.1/windows)
+![image](https://github.com/Geek-a-Byte/php-oracle-connection-tutorial/assets/59027621/b46b8294-2634-48a5-9cef-537b6b7d8839)
+- [ ] Copy and paste the extracted files in C:\xampp\apache\bin and C:\xampp\php\ext
+![image](https://github.com/Geek-a-Byte/php-oracle-connection-tutorial/assets/59027621/436920f2-d6e9-4281-9033-7688786be669)
 - [ ] now go to xampp, press config right after the apache option and select php.ini file
-- [ ] add these two lines: extension=php_oci8.dll  extension=php_oci8_11g.dll
-![Screenshot 2023-05-28 224500](https://github.com/Geek-a-Byte/php-oracle-connection-tutorial/assets/59027621/4d692fdc-08b5-42e9-ac6c-96ddb2229b96)
-- [ ] Make sure in the php.ini file the extension_dir =”C:\xampp\php\ext”.
+- [ ] remove ; before "extension=oci8_19  ; Use with Oracle Database 19 Instant Client"
+- [ ] Make sure in the php.ini file the extension_dir ="C:\xampp\php\ext".
 
