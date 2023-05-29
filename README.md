@@ -39,6 +39,10 @@ follow this mainly: https://www.youtube.com/watch?v=tXoszm_v5NA&t=1s&ab_channel=
 - [ ] now go to xampp, press config right after the apache option and select php.ini file
 - [ ] remove ; before "extension=oci8_19  ; Use with Oracle Database 19 Instant Client"
 - [ ] Make sure in the php.ini file the extension_dir ="C:\xampp\php\ext".
+- [ ] now restart the apache server and go to "http://localhost:8085/dashboard/phpinfo.php"
+- [ ] you should see the oci 8 information like this:
+ ![image](https://github.com/Geek-a-Byte/php-oracle-connection-tutorial/assets/59027621/fed4d23d-62be-4463-aa8d-f786be7ea8e3)
+- [ ] so oci package is successfully loaded now.
 
 ## ``step 4: create new user for oracle db``
 
@@ -131,3 +135,10 @@ echo "</table>\n";
 
 
 ```
+
+- [ ] now restart the apache server and go to this url: "http://localhost:8085/connection.php"
+
+you should see:
+![image](https://github.com/Geek-a-Byte/php-oracle-connection-tutorial/assets/59027621/8d592510-1ff2-46f3-9180-10b994078970)
+
+### and this is it, all done phew!
