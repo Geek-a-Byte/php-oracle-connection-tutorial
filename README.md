@@ -28,7 +28,7 @@
 - [ ] add this two path under system variable Path:
  ![image](https://github.com/Geek-a-Byte/php-oracle-connection-tutorial/assets/59027621/4d6c414a-7d20-4b83-92a0-41150160ec87)
 
-## ``step 3: Download php_oci8.dll and php_oci8_11g.dll``
+## ``step 3: Download oci8 3.2.1 for Windows``
 
 - [ ] Download dll files (the thread safe one for x86) for oci from [here](https://pecl.php.net/package/oci8/3.2.1/windows)
 ![image](https://github.com/Geek-a-Byte/php-oracle-connection-tutorial/assets/59027621/b46b8294-2634-48a5-9cef-537b6b7d8839)
