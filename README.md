@@ -6,6 +6,7 @@
 - [ ] https://www.oracle.com/database/technologies/oracle19c-windows-downloads.html
 - [ ] https://www.oracle.com/database/sqldeveloper/technologies/download/
 - [ ] https://www.youtube.com/watch?v=GUpvXMHqe2U&ab_channel=GeekyScript
+- [ ] if you need reinstall oracle all over again, make sure to uninstall the previous version correctly, follow this: http://www.rebellionrider.com/how-to-uninstall-oracle-database-19c/
 
 ## ``step 1: Setup Xampp``
 
