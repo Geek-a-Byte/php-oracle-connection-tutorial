@@ -1,6 +1,10 @@
 # php-oracle-connection-tutorial
-
 ## this tutorial is only applicable for oracle 19c
+
+## ``step 0: download oracle 19c``
+- assuming you have Windows x64 (64-bit).
+- [ ] https://www.oracle.com/database/technologies/oracle19c-windows-downloads.html
+- [ ] https://dotnettutorials.net/lesson/how-to-download-and-install-oracle-19c-softwareon-windows-10/
 
 ## ``step 1: Setup Xampp``
 
